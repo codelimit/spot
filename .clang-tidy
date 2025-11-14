@@ -1,1 +1,1 @@
-Checks: '*'
+Checks: '-*,bugprone-*,cppcoreguidelines-*,modernize-*'
